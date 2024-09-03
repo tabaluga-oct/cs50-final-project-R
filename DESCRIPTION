@@ -1,0 +1,12 @@
+Package: emojiworld
+Title: Emoji World
+Description: sensor words then add emojis behind them or replace them with emojis (English only)
+Version: 1.0
+Authors@R: person("Qing", "Deng", email = "dengqing77@hotmail.com", role = c("aut", "cre", "cph"))
+License: MIT + file LICENSE
+Video: https://youtu.be/jLOsGFDus_4
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+RoxygenNote: 7.3.1
+Encoding: UTF-8
